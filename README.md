@@ -39,3 +39,12 @@ TS 6: Category Filter
    - Select any category (e.g., Laptops)
    - Verify only products from that category are displayed
 
+
+### BrowserStack
+![browserstack_pass.png](browserstack_pass.png)
+
+There is also a report included with the test cases. [report_browserstack.html](report_browserstack.html)
+
+### Jenkins
+![jenkins_page.png](jenkins_page.png)
+![jenkins_console.png](jenkins_console.png)
