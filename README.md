@@ -48,3 +48,5 @@ There is also a report included with the test cases. [report_browserstack.html](
 ### Jenkins
 ![jenkins_page.png](jenkins_page.png)
 ![jenkins_console.png](jenkins_console.png)
+
+![jenkins_browserstack.png](jenkins_browserstack.png)
